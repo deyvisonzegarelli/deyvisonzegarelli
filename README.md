@@ -1,6 +1,6 @@
-![Banner](https://raw.githubusercontent.com/deyvisonzegarelli/deyvisonzegarelli/main/banner.png)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deyvisonzegarelli/deyvisonzegarelli/main/banner.png" alt="Banner Deyvison Zegarelli" width="100%" />
+</p>
 
 # 👋 Olá! Eu sou o Deyvison Zegarelli  
 💻 Desenvolvedor Web | Paixão por tecnologia, inovação e código limpo.   
