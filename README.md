@@ -1,4 +1,5 @@
-![Banner](./banner.png)
+![Banner](https://raw.githubusercontent.com/deyvisonzegarelli/deyvisonzegarelli/main/banner.png)
+
 
 
 # 👋 Olá! Eu sou o Deyvison Zegarelli  
