@@ -1,16 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deyvisonzegarelli/deyvisonzegarelli/main/banner.png" alt="Banner Deyvison Zegarelli" width="100%" />
-</p>
-
 # 👋 Olá! Eu sou o Deyvison Zegarelli  
 💻 Desenvolvedor Web | Paixão por tecnologia, inovação e código limpo.   
 📚 Sempre aprendendo e compartilhando.
-
-## 📈 Minhas estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deyvisonzegarelli&show_icons=true&theme=dracula)  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvisonzegarelli&layout=compact&theme=dracula)
-
 
 ## 🌐 Conecte-se comigo
 
