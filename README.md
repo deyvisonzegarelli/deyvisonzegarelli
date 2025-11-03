@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou o Deyvison Zegarelli  
 💻 Desenvolvedor Web | Paixão por tecnologia, inovação e código limpo.  
 📚 Sempre aprendendo e compartilhando.
+💡 Tecnologias: JavaScript | Java | MySQL
 
 ---
 
